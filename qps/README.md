@@ -30,10 +30,10 @@ power supply is two-fold:
 * Eliminates the sensor-to-sensor variabilities, since each LED has a different forward-voltage -> when driven in current, all LED will
 have the same intensity
 
-## Read out
+## Sensor read out
 
 Also in this case you can add a resistor, in this case for biasing the phototransitor. In such a case you will have to add one on each
-sensor. Alternatively, you can use a transimpedance amplifier, which has some advantages. See
+sensor. Alternatively, you can use a transimpedance amplifier, which is more complicated but has some advantages. See
 [here](https://github.com/jkominek/piano-conversion/wiki/Analog-Stage-Theory-of-Operation) for details.
 
 
