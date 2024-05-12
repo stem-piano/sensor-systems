@@ -39,7 +39,9 @@ sensor. Alternatively, you can use a transimpedance amplifier, which is more com
 
 ## Labeling
 
-* + and - are the LED powering connections
-* E and C are the Emitter and Collector of the phototransistor respectively
+On the board the connectors are labeled as follows:
+
+* `+` and `-` are the LED powering connections
+* `E` and `C` are the Emitter and Collector of the phototransistor respectively
 
 
