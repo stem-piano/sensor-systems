@@ -12,6 +12,11 @@ improving directionality and reducing crosstalk
 * It does not include neither current-limiter resistors for the LED, nor bias-resistors for the phototransistor, as such it allows for
 more flexible powering schemes.
 
+I have an untested design with 2 sensors per board, however I am not putting it here because I have not tested it. I have not tested
+it because I have found that the version with 4x can be simply used for all hammers and keys: just leave some sensors unused (and not
+connected). That is more cost effective than having versions with different number of sensors per board, at the expense of minimal
+assembly complication.
+
 ## Flexibility in power supply -- BE CAREFUL!
 
 The lack of current-limiter resistors means that you cannot power this board directly from a typical (i.e. constant-voltage) power supply,
