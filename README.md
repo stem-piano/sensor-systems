@@ -1,2 +1,3 @@
-# sensor-systems
-Hybrid MIDI digital pianos sensors
+# Stem Piano Sensor Systems
+
+Sensor systems for the pianos.
