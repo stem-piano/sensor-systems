@@ -7,7 +7,8 @@ The files are named 2040-centered-4x-QRE1113GR because:
 1. They fit on a 2040 extrusion
 2. The sensors are centered
 3. There are 4 sensors per board
-4. The sensor is a QRE1113GR (SMT, but there is an equivalent through hole, if you prefer to solder it yourself and are more comfortable with through hole tech)
+4. The sensor is a QRE1113GR (SMT, but there is an equivalent through hole, if you prefer to solder it yourself and are more comfortable with through
+   hole tech -- however you'd have to change the Gerber files to include the hole)
 
 The QRE1113-protector.stl is the 3D-print model for the sensor protector.
 
@@ -26,7 +27,8 @@ on the left, showing the other side with the clearance for the pins.
 
 The board on the left, on the thinner extrusion is identical to the others. The assembly
 is slightly different in that the jumper connector will be mounted on
-the other side of the board. That, and the thinner extrusion make it a "key sensor" board.
+the other side of the board (or it can be installed 90-degrees, see pictures in the assembly
+instructions linked below). That, and the thinner extrusion make it a "key sensor" board.
 It will need to be flipped upside down for the purpose, and lowered under the keys which
 are not shown in this image. All keys will have them (also the keys not damped on a piano:
 note off is still needed for MIDI even if it might be ignored by the virtual instrument for
