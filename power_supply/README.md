@@ -19,7 +19,7 @@ the _Typical Application Circuit_ on page of the datasheet, simply provides very
 has been designed for it: there is only headers for the input voltage, the CL220, a capacitor and headers for the output.
 
 ![Typical Application Circuit](./schematics.png)
-&nbsp;&nbsp;**Figure 1: Typical Application Circuit**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Figure 1: Typical Application Circuit**
 
 For input voltage, a linear power supply is best for its stability. Since there are 88 LEDs for the hammer sensors (and optionally 88 more for damper sensors, and optionally a few more
 for pedals), one will need to consider how many Volts are needed. The LEDs in both the CNY70 and the QRE1113 have a drop voltage between 1.2V and 1.6V, which means that if you want to
